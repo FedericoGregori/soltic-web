@@ -83,6 +83,7 @@ add_filter( 'gettext', function ( $strings ) {
         'YOUR ORDER' => 'Tu Orden',
         'Create an account?' => 'Crear una cuenta?',
         /* 404 */
+        'PAGE NOT FOUND' => 'Página no encontrada',
         'We\'re sorry, but the page you were looking for doesn\'t exist.' => 'Lo sentimos, pero la página que busca no existe.',
         /* Member profile */
         'Follow Me' => 'Seguirme'
